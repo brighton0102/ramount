@@ -59,8 +59,8 @@ export default function HomePage() {
 
       <section className="bg-porcelain py-16">
         <div className="container-pad">
-          <SectionHeading eyebrow="Shop by category" title="Built for customers who want clarity before they call">
-            Ramount can use this as a sales catalogue today, then connect the same product structure to a CMS when the business is ready.
+          <SectionHeading eyebrow="" title="Let us help you find your style , Discover the Perfect Fit ">
+            
           </SectionHeading>
           <div className="grid gap-6 lg:grid-cols-3">
             {categories.map((category) => (
