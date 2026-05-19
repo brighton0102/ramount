@@ -59,7 +59,7 @@ export default function HomePage() {
 
       <section className="bg-porcelain py-16">
         <div className="container-pad">
-          <SectionHeading eyebrow="" title="Let us help you find your style , Discover the Perfect Fit ">
+          <SectionHeading eyebrow="" title="Let us help you find your Style , Discover the Perfect Fit ">
             
           </SectionHeading>
           <div className="grid gap-6 lg:grid-cols-3">
