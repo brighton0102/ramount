@@ -113,10 +113,10 @@ export default function HomePage() {
           <div>
             <p className="eyebrow">Why Ramount</p>
             <h2 className="mt-3 text-3xl font-black tracking-tight text-ink sm:text-4xl">
-              Make the buying decision easier before the customer arrives.
+              We provide clear, itemized quotations with no hidden costs.
             </h2>
             <p className="mt-5 text-base leading-8 text-charcoal/75">
-              Many clients want to understand styles, approximate pricing and options before calling. This website gives Ramount a professional catalogue that builds trust while still keeping sales personal through WhatsApp.
+             Our company has a strong track record in both door installation and general construction, we place a strong emphasis on  industry standards adherence ensuring quality in all our products.
             </p>
           </div>
           <div className="grid gap-4">
