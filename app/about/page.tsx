@@ -22,7 +22,7 @@ export default function AboutPage() {
               Ramount supplies doors, cornice ceilings and finishing hardware for customers who care about presentation, durability and clear buying guidance. The website works as a modern showroom customers can browse before starting a WhatsApp conversation.
             </p>
             <div className="mt-7 grid gap-3">
-              {["Guide prices reduce back-and-forth", "Product pages make enquiries specific", "Categories can scale into a full CMS catalogue"].map((item) => (
+              {["Guide prices reduce back-and-forth", "Product pages make enquiries specific", ""].map((item) => (
                 <p key={item} className="flex gap-3 text-sm font-bold text-charcoal">
                   <CheckCircle2 size={19} className="shrink-0 text-brass" /> {item}
                 </p>
