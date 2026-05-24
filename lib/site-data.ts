@@ -31,7 +31,7 @@ export const company = {
   phone: "+263 77 123 4567",
   whatsapp: "263771234567",
   email: "sales@ramount.co.zw",
-  address: "Harare, Zimbabwe",
+  address: "Mutare, Zimbabwe",
   hours: "Mon - Sat, 8:00 - 17:00"
 };
 
