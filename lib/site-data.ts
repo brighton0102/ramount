@@ -246,9 +246,9 @@ export const faqs = [
       "Yes. Ramount can advise on interior, exterior, security, glass-panel and feature entrance options based on the room and budget."
   },
   {
-    question: "Can this website connect to Sanity later?",
+    question: " ",
     answer:
-      "The catalogue is already structured around reusable product and category data, so a Sanity integration can replace the local data source without redesigning the site."
+      " "
   }
 ];
 
