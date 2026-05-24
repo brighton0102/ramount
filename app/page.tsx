@@ -89,8 +89,8 @@ export default function HomePage() {
 
       <section className="bg-white py-16">
         <div className="container-pad">
-          <SectionHeading eyebrow="Featured catalogue" title="A premium browsing experience without checkout friction">
-            Customers can compare styles, guide prices and finishes, then enquire directly on WhatsApp.
+          <SectionHeading eyebrow="Featured catalogue" title="">
+            Compare styles, guide prices and finishes, then enquire directly to our WhatsApp.
           </SectionHeading>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {featured.map((product) => (
