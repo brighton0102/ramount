@@ -26,7 +26,7 @@ export type Product = {
 
 export const company = {
   name: "Ramount",
-  city: "Harare",
+  city: "Mutare",
   country: "Zimbabwe",
   phone: "+263 77 123 4567",
   whatsapp: "263771234567",
